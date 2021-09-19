@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+main{
+    margin-top: 6px;
+    background: #5e057e;
+}
+
+.center_img{
+    width: 540px;
+    height: 540px;
+    margin: 0 auto;
+    padding: 12px 24px;
+}
+
+h1{
+    color: #c299d0;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 36px;
+}
+
+h2{
+    color:#c299d0;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 36px;
+}
+
+h3{
+    color:#c299d0;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 36px;
+    padding-top: 50px;
+}
+
+p{
+    text-align: center;
+    color: #c299d0
+}
